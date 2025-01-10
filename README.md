@@ -2,7 +2,7 @@
 
 
 
-I'm a professional Analytical Enginner.I specialize in transforming raw data into actionable insights using SQL and Python. With a proven track record of designing scalable ETL pipelines and solving complex data problems, I’m committed to driving efficiency and innovation for your team [LinkedIn Profile](https://www.linkedin.com/in/dorisonuorji/) for more details.
+I'm a professional Analytical Enginner. I specialize in transforming raw data into actionable insights using SQL and Python. With a proven track record of designing scalable ETL pipelines and solving complex data problems, I’m committed to driving efficiency and innovation for your team [LinkedIn Profile](https://www.linkedin.com/in/dorisonuorji/) for more details.
 
 ## Skills
 
