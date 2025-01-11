@@ -24,10 +24,13 @@ I'm a professional Analytical Enginner. I specialize in transforming raw data in
 | Category | list | 
 | :------ |:---|
 |Programming| Python, R , SQL|
-|Data Modelling     |DBT    |
-|Business Intelliegence Reporting| PowerBI, Kibana, LookerStudio, Tableau|
-| Data Task automation| Apache Airflow, Apache Nifi, Stitch
-|Database| SQL Server, PostgreSQL, Oracle, Bigquery, Snowflakes, Elasticsearch, MongoDB|
+|Data Modelling     |dbt|
+|Business Intelliegence Reporting| PowerBI, Kibana, LookerStudio, Tableau |
+| Data Pipeline(ETL)| Apache Airflow, Apache Nifi, Stitch|
+|Database| SQL Server, PostgreSQL, Oracle, Elasticsearch, MongoDB|
+|Data Warehouse| Bigquery, Snowflake|
+|MDM| Informatica, Talend|
+|Analytics & AI| TensorFlow , scikit-learn |
 |Cloud Services|Google Cloud Service,Cloud sql, AWS, S3 Buckets|
 |ETL Development| SSIS, Airflow, Stitch, Python |
 |Containers | Docker, Google Kubernetes |
